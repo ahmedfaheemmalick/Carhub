@@ -1,8 +1,8 @@
 # Carhub App
 
-[live Site](http://a-Car-hub-app.netlify.app/)
+[live Site](https://a-carhub-app.netlify.app/)
 
-![Carhub App](/public/preview.png)
+![Carhub App](/preview.png)
 
 This is the code repo of Carhub App. There I used:
 
